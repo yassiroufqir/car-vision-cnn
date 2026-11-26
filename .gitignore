@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+data/*
+!data/**/.gitkeep
+models/*
+!models/.gitkeep
+runs/
+*.pt
+*.pth
+*.h5
+.env
